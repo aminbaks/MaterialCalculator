@@ -6,6 +6,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarSize">15dp</item>
+        <item name="colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="android:colorBackground">@color/background</item>
     </style>
 
 </resources>
